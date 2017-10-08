@@ -11,7 +11,7 @@ DEMO
   </code>
 </pre>  
 <h1>面试相关知识点以及部分基础知识点</h1>
-![img](https://github.com/lq-work/mianShiTi/raw/master/img/pic.png "面试题图片")
+|![img](https://github.com/lq-work/mianShiTi/raw/master/img/pic.png "面试题图片")
 
 |#|语法|效果|
 |---|---|----
