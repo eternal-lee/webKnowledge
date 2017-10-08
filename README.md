@@ -11,8 +11,11 @@ DEMO
   </code>
 </pre>  
 <h1>面试相关知识点以及部分基础知识点</h1>
-![面试题](https://github.com/lq-work/mianShiTi/raw/master/img/pic.png)
+|1|`![面试题](https://github.com/lq-work/mianShiTi/raw/master/img/pic.png)`|![img](https://github.com/lq-work/mianShiTi/raw/master/img/pic.png)
 
+|#|语法|效果|
+|---|---|----
+|1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 ###
 <h1>图片</h1>
 ——————————
