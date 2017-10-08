@@ -11,4 +11,23 @@ DEMO
   </code>
 </pre>  
 <h1>面试相关知识点以及部分基础知识点</h1>
-![image](https://github.com/lq-work/mianShiTi/blob/master/img/pic.png)
+![面试题](https://github.com/lq-work/mianShiTi/raw/master/img/pic.png)
+
+###
+<h1>图片</h1>
+——————————
+基本格式：
+
+<pre>
+  ![alt](URL title)
+</pre>
+alt和title即对应HTML中的alt和title属性（都可省略）：
+
+  alt表示图片显示失败时的替换文本
+  title表示鼠标悬停在图片时的显示文本（注意这里要加引号）
+URL即图片的url地址，如果引用本仓库中的图片，直接使用相对路径就可了，如果引用其他github仓库中的图片要注意格式，<br/>
+即：`仓库地址/raw/分支名/图片路径`，如：
+<pre>
+  [foryou]:https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+</pre>
+
