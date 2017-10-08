@@ -16,7 +16,7 @@ DEMO
 |#|语法|效果|
 |---|---|----
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
-|2|`![img](https://github.com/lq-work/mianShiTi/raw/master/img/pic.png)`|![img]((https://github.com/lq-work/mianShiTi/raw/master/img/pic.png "面试题图片")
+|2|`![img](https://github.com/lq-work/mianShiTi/raw/master/img/pic.png)`|![img](https://github.com/lq-work/mianShiTi/raw/master/img/pic.png "面试题图片")
 ###
 <h1>图片</h1>
 ——————————
