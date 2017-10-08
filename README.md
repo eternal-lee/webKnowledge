@@ -9,4 +9,4 @@
   </code>
 </pre>  
 <h1>面试相关知识点以及部分基础知识点</h1>
-![image text](https://github.com/lq-work/mianShiTi/blob/master/img/pic.png)
+![image](https://github.com/lq-work/mianShiTi/blob/master/img/pic.png)
